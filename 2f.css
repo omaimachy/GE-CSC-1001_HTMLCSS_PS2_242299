@@ -1,0 +1,21 @@
+#p1{
+	color: rgb(0,118,0);
+}
+a{
+	color: rgb(0,113,133);
+}
+#bt1{
+	background-color: rgb(255, 216, 20);
+	border: 1px solid rgb(255, 216, 20);
+	color: black;
+	border-radius: 20px;
+	padding: 10px;
+}
+#bt2{
+	background-color: rgb(255, 164,28);
+	border: 1px solid rgb(255, 164,28);
+	color: black;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px;
+}
