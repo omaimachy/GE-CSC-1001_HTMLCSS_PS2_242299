@@ -1,0 +1,14 @@
+body{
+	font-family: verdana;
+}
+h2{
+
+	color: gray;
+}
+button{
+	color: white;
+	background-color: green;
+	border: 1px solid green;
+	border-radius: 10px;
+	padding: 10px;
+}	
