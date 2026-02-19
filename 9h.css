@@ -1,0 +1,23 @@
+body{
+	width: 1000px;
+}
+img{
+	width: 500px;
+	height: 100px;
+	margin: 10px;
+}
+input{
+	margin: 10px;
+	text-align: center;
+	padding: 5px;
+	width: 500px;
+	border: 1px solid white;
+	box-shadow: 1px 1px 0px gray;
+	border-radius: 5px;
+}
+#bt1{
+	border: 1px solid white;
+}
+#bt2{
+	border: 1px solid white;	
+}
