@@ -1,0 +1,18 @@
+button{
+	vertical-align: 16px;
+	border-radius: 15px;
+	color: white;
+	background-color: rgb(10, 102, 194);
+	border: 1px solid rgb(10, 102, 194);
+	padding: 5px;
+}
+img{
+	height: 40px;
+	width: 40px;
+	border-radius: 100px;
+}
+input{
+	vertical-align: 16px;
+	border: 1px solid white;
+	padding: 5px;
+}

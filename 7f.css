@@ -1,0 +1,18 @@
+
+input{
+	border: 1px solid gray;
+	border-radius: 5px;
+	width: 400px;
+}
+button{
+	text-align: center;
+	padding: 10px;
+	width: 400px;
+	border-radius: 30px;
+	background-color: rgb(10, 102, 194);
+	border: 1px solid rgb(10, 102, 194);
+	color: white;
+}
+p{
+	color: gray;
+}
